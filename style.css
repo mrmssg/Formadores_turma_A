@@ -3,3 +3,12 @@ color: rgb(226, 12, 12);
 text-align: center;
 font-size: 50px;
 }
+h2 {
+    text-align: center;
+    color: aqua;
+}
+p{
+    text-align: center;
+    color: rgb(145, 0, 0);
+    font-size: 16px;
+}
