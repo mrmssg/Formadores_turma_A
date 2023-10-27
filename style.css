@@ -19,3 +19,15 @@ body{
 header{
     background-image: url(cambios-navegar-internet.jpg);
 }
+.impar{
+    text-align: left;
+    color: rgb(10, 2, 41);
+    font-weight: bold;
+    font-size: 20px;
+}
+.par{
+    text-align: right;
+    color: rgb(5, 243, 231);
+    font-weight: bold;
+    font-size: 20px;   
+}
