@@ -17,12 +17,13 @@ body{
     background-color:darkblue;
 }
 header{
+
     background-image: url(cambios-navegar-internet.jpg);
 }
 .impar{
     margin-left: 32%;
     text-align: left;
-    color: rgb(60, 41, 167);
+    color: rgb(6, 181, 250);
     font-family: ;
     font-weight: bold;
     font-size: 20px;
