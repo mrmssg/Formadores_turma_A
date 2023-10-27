@@ -20,14 +20,14 @@ header{
     background-image: url(cambios-navegar-internet.jpg);
 }
 .impar{
-    margin-left: 20%;
+    margin-left: 30%;
     text-align: left;
     color: rgb(235, 111, 29);
     font-weight: bold;
     font-size: 20px;
 }
 .par{
-    margin-right: 20%;
+    margin-right: 30%;
     text-align: right;
     color: rgb(5, 243, 231);
     font-weight: bold;
