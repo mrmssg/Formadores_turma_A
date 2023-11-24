@@ -38,3 +38,13 @@ header{
 img{
     width: 60%;
 }
+ol{
+    text-align: center;
+    font-size: 20px;
+    color: aquamarine;
+}
+ul{
+    text-align: left;
+    font-size: 20px;
+    color: bisque;
+}
